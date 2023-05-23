@@ -1,6 +1,6 @@
 <p><img src="https://i.pinimg.com/originals/93/9d/04/939d04b7778dd22f4bf0515fa3686421.png" alt="background" title="Brains" /></p>
 <h1 align="center">Hi 👋, I'm Morgan Ero</h1>
-<h3 align="center">I am a FullStack Developer with a preference for FrontEnd and CSS</h3>
+<h3 align="center">I am a FullStack Developer with a passion to learn and grow in all aspects</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morganero&label=Profile%20views&color=0e75b6&style=flat" alt="morganero" /> </p>
